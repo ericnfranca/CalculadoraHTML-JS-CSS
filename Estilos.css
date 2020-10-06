@@ -1,0 +1,46 @@
+.campo-valores{
+  background-color: #EEEEEE;
+  color: #000000;
+  border-color: #cccccc;
+  border: solid 1px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
+.botao-operacoes{
+  width: 37px;
+  height: 37px;
+  border: solid 1px;
+  background-color: #FF8000;
+  color: #FFFFFF;
+  font-size: 14px ;
+}
+.botao-operacoes:hover{
+  cursor: pointer;
+  background-color: #EE5000;
+}
+.campo-respostas{
+  text-align: left;
+  border: solid 1px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
+.Botoes-limpeza{
+  width: 50px;
+  height: 37px;
+  background-color: #FF8000;
+  color: #FFFFFF;
+  border: solid 1px;
+  font-size: 10px;
+}
+.Botoes-limpeza:hover{
+  cursor: pointer;
+  background-color: #EE5000;
+}
+.H-tags{
+  background-color: #FF8000;
+  color: #FFFFFF;
+}
